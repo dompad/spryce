@@ -1,0 +1,62 @@
+[
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.about.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/about",
+        "title": "About",
+        "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/",
+        "title": "Home",
+        "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.contact.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/contact",
+        "title": "Contact",
+        "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.blog.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/blog",
+        "title": "Blog",
+        "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.blog._.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/blog/*",
+        "title": "Article",
+        "visibility": false
+    },
+    {
+        "main": true,
+        "noindex": false,
+        "page": "page.photo.html",
+        "pages": false,
+        "popup": true,
+        "slug": "/photo",
+        "title": "Photo",
+        "visibility": false
+    }
+]
