@@ -1,19 +1,15 @@
 {
-    "name": "Spryce",
-    "short_name": "Spryce",
-    "icons": [
-        {
-            "src": "/android-chrome-192x192.png",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "/android-chrome-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#e2dcd8",
-    "background_color": "#e2dcd8",
-    "display": "standalone"
+  "name": "Spryce",
+  "short_name": "dompad",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "570x570",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#e2dcd8",
+  "background_color": "#e2dcd8",
+  "display": "standalone",
+  "description": "A lifestyle and creativity blog exploring the intersection of technology, personal growth, and everyday life. It features inspiring ideas, practical insights, and thought-provoking articles designed to encourage readers to think differently, discover new perspectives, and live more creatively."
 }
