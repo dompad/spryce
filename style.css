@@ -1,0 +1,191 @@
+
+[css-flex-direction='column']  {
+     flex-direction: column ;
+}
+
+
+[css-flex-direction='row']  {
+     flex-direction: row ;
+}
+
+
+[css-flex='1']  {
+     flex: 1 ;
+}
+
+
+[css-font-family='Times New Roman']  {
+     font-family: Times New Roman ;
+}
+
+
+[css-font-family='Times New Roman']  {
+     font-family: Times New Roman ;
+}
+
+
+[css-font-size='120px']  {
+     font-size: 120px ;
+}
+
+
+[css-font-size='13px']  {
+     font-size: 13px ;
+}
+
+
+[css-font-size='60px']  {
+     font-size: 60px ;
+}
+
+
+[css-font-size='60px']  {
+     font-size: 60px ;
+}
+
+
+[css-font-weight='bolder']  {
+     font-weight: bolder ;
+}
+
+
+[css-gap='100px']  {
+     gap: 100px ;
+}
+
+
+[css-gap='20px']  {
+     gap: 20px ;
+}
+
+
+[css-height='0']  {
+     height: 0 ;
+}
+
+
+[css-justify-content='center']  {
+     justify-content: center ;
+}
+
+
+[css-line-height='50px']  {
+     line-height: 50px ;
+}
+
+
+[css-line-height='50px']  {
+     line-height: 50px ;
+}
+
+
+[css-margin-right='auto']  {
+     margin-right: auto ;
+}
+
+
+[css-margin='auto']  {
+     margin: auto ;
+}
+
+
+[css-min-height='270px']  {
+     min-height: 270px ;
+}
+
+
+[css-padding-top='50px']  {
+     padding-top: 50px ;
+}
+
+
+[css-padding-top='56.25%']  {
+     padding-top: 56.25% ;
+}
+
+
+[css-padding='0 10px']  {
+     padding: 0 10px ;
+}
+
+
+[css-padding='0 20px']  {
+     padding: 0 20px ;
+}
+
+
+[css-padding='0 50px']  {
+     padding: 0 50px ;
+}
+
+
+[css-padding='100px 50px']  {
+     padding: 100px 50px ;
+}
+
+
+[css-padding='10px 20px']  {
+     padding: 10px 20px ;
+}
+
+
+[css-padding='20px 0px']  {
+     padding: 20px 0px ;
+}
+
+
+[css-position='absolute']  {
+     position: absolute ;
+}
+
+
+[css-text-decoration='underline']  {
+     text-decoration: underline ;
+}
+
+
+[css-top='0']  {
+     top: 0 ;
+}
+
+
+[css-width='100%']  {
+     width: 100% ;
+}
+
+
+[css-width='30px']  {
+     width: 30px ;
+}
+
+[css-display='none']  {
+     display: none ;
+}
+
+@media screen and (max-width: 1280px) { [css-dw1280px-font-size='48px']  {
+    
+}
+
+@media screen and (max-width: 1080px) { [css-dw1080px-font-size='36px']  {
+    
+}
+
+@media screen and (max-width: 960px) { [css-dw960px-flex-direction='column']  {
+    
+}
+
+@media screen and (max-width: 960px) { [css-dw960px-gap='0']  {
+    
+}
+
+@media screen and (max-width: 960px) { [css-dw960px-padding='20px 0']  {
+    
+}
+
+@media screen and (max-width: 640px) { [css-dw640px-display='flex']  {
+    
+}
+
+@media screen and (max-width: 640px) { [css-dw640px-display='none']  {
+    
+}
