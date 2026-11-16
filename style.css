@@ -1,24 +1,4 @@
 
-[css-flex-direction='column']  {
-     flex-direction: column ;
-}
-
-
-[css-flex-direction='row']  {
-     flex-direction: row ;
-}
-
-
-[css-flex='1']  {
-     flex: 1 ;
-}
-
-
-[css-font-family='Times New Roman']  {
-     font-family: Times New Roman ;
-}
-
-
 [css-font-family='Times New Roman']  {
      font-family: Times New Roman ;
 }
@@ -39,23 +19,8 @@
 }
 
 
-[css-font-size='60px']  {
-     font-size: 60px ;
-}
-
-
 [css-font-weight='bolder']  {
      font-weight: bolder ;
-}
-
-
-[css-gap='100px']  {
-     gap: 100px ;
-}
-
-
-[css-height='0']  {
-     height: 0 ;
 }
 
 
@@ -84,18 +49,8 @@
 }
 
 
-[css-min-height='270px']  {
-     min-height: 270px ;
-}
-
-
 [css-padding-top='50px']  {
      padding-top: 50px ;
-}
-
-
-[css-padding-top='56.25%']  {
-     padding-top: 56.25% ;
 }
 
 
@@ -109,11 +64,6 @@
 }
 
 
-[css-padding='100px 50px']  {
-     padding: 100px 50px ;
-}
-
-
 [css-padding='10px 20px']  {
      padding: 10px 20px ;
 }
@@ -124,23 +74,8 @@
 }
 
 
-[css-position='absolute']  {
-     position: absolute ;
-}
-
-
 [css-text-decoration='underline']  {
      text-decoration: underline ;
-}
-
-
-[css-top='0']  {
-     top: 0 ;
-}
-
-
-[css-width='100%']  {
-     width: 100% ;
 }
 
 
@@ -150,22 +85,6 @@
 
 [css-display='none']  {
      display: none ;
-}
-
-@media screen and (max-width: 1280px) { [css-dw1280px-font-size='48px']  {
-    
-}
-
-@media screen and (max-width: 1080px) { [css-dw1080px-font-size='36px']  {
-    
-}
-
-@media screen and (max-width: 960px) { [css-dw960px-flex-direction='column']  {
-    
-}
-
-@media screen and (max-width: 960px) { [css-dw960px-gap='0']  {
-    
 }
 
 @media screen and (max-width: 640px) { [css-dw640px-display='flex']  {
