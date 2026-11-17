@@ -1,16 +1,32 @@
 [css-flex-direction="column"] { flex-direction: column; }
 
+[css-flex-direction="column"] { flex-direction: column; }
+
 [css-flex-direction="row"] { flex-direction: row; }
 
 [css-flex="1"] { flex: 1 1 0%; }
 
 [css-font-family="Times New Roman"] { font-family: "Times New Roman"; }
 
+[css-font-family="Times New Roman"] { font-family: "Times New Roman"; }
+
+[css-font-size="20px"] { font-size: 20px; }
+
+[css-font-size="30px"] { font-size: 30px; }
+
+[css-font-size="60px"] { font-size: 60px; }
+
 [css-font-size="60px"] { font-size: 60px; }
 
 [css-gap="100px"] { gap: 100px; }
 
+[css-gap="20px"] { gap: 20px; }
+
+[css-gap="36px"] { gap: 36px; }
+
 [css-height="0"] { height: 0px; }
+
+[css-margin-top="60px"] { margin-top: 60px; }
 
 [css-min-height="270px"] { min-height: 270px; }
 
@@ -18,11 +34,17 @@
 
 [css-padding="100px 50px"] { padding: 100px 50px; }
 
+[css-padding="120px"] { padding: 120px; }
+
 [css-position="absolute"] { position: absolute; }
 
 [css-top="0"] { top: 0px; }
 
 [css-width="100%"] { width: 100%; }
+
+[css-width="50%"] { width: 50%; }
+
+[css-width="calc(50% - 240px)"] { width: calc(50% - 240px); }
 
 @media screen and (max-width: 1280px) {
   [css-dw1280px-font-size="48px"] { font-size: 48px; }
@@ -42,4 +64,44 @@
 
 @media screen and (max-width: 480px) {
   [css-dw480px-font-size="24px"] { font-size: 24px; }
+}
+
+@media screen and (max-width: 1280px) {
+  [css-dw1280px-flex-direction="column-reverse"] { flex-direction: column-reverse; }
+}
+
+@media screen and (max-width: 1280px) {
+  [css-dw1280px-width="100%"] { width: 100%; }
+}
+
+@media screen and (max-width: 1280px) {
+  [css-dw1280px-width="calc(100% - 240px)"] { width: calc(100% - 240px); }
+}
+
+@media screen and (max-width: 768px) {
+  [css-dw768px-aspect-ratio="2 / 3"] { aspect-ratio: 2 / 3; }
+}
+
+@media screen and (max-width: 768px) {
+  [css-dw768px-font-size="16px"] { font-size: 16px; }
+}
+
+@media screen and (max-width: 768px) {
+  [css-dw768px-font-size="48px"] { font-size: 48px; }
+}
+
+@media screen and (max-width: 768px) {
+  [css-dw768px-padding="60px"] { padding: 60px; }
+}
+
+@media screen and (max-width: 768px) {
+  [css-dw768px-width="calc(100% - 120px)"] { width: calc(100% - 120px); }
+}
+
+@media screen and (max-width: 480px) {
+  [css-dw480px-padding="20px"] { padding: 20px; }
+}
+
+@media screen and (max-width: 480px) {
+  [css-dw480px-width="calc(100% - 40px)"] { width: calc(100% - 40px); }
 }
