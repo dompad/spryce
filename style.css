@@ -32,8 +32,6 @@
 
 [css-text-decoration="underline"] { text-decoration: underline; }
 
-[css-width="30px"] { width: 30px; }
-
 @media screen and (max-width: 640px) {
   [css-dw640px-display="flex"] { display: flex; }
 }
