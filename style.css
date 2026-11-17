@@ -1,104 +1,51 @@
+[css-display="none"] { display: none; }
 
-[css-font-family='Times New Roman']  {
-     font-family: Times New Roman ;
+[css-font-family="Times New Roman"] { font-family: "Times New Roman"; }
+
+[css-font-size="120px"] { font-size: 120px; }
+
+[css-font-size="13px"] { font-size: 13px; }
+
+[css-font-size="60px"] { font-size: 60px; }
+
+[css-font-weight="bolder"] { font-weight: bolder; }
+
+[css-justify-content="center"] { justify-content: center; }
+
+[css-line-height="50px"] { line-height: 50px; }
+
+[css-line-height="50px"] { line-height: 50px; }
+
+[css-margin-right="auto"] { margin-right: auto; }
+
+[css-margin="auto"] { margin: auto; }
+
+[css-padding-top="50px"] { padding-top: 50px; }
+
+[css-padding="0 10px"] { padding: 0px 10px; }
+
+[css-padding="0 20px"] { padding: 0px 20px; }
+
+[css-padding="10px 20px"] { padding: 10px 20px; }
+
+[css-padding="20px 0px"] { padding: 20px 0px; }
+
+[css-text-decoration="underline"] { text-decoration: underline; }
+
+[css-width="30px"] { width: 30px; }
+
+@media screen and (max-width: 640px) {
+  [css-dw640px-display="flex"] { display: flex; }
 }
 
-
-[css-font-size='120px']  {
-     font-size: 120px ;
+@media screen and (max-width: 640px) {
+  [css-dw640px-display="none"] { display: none; }
 }
 
-
-[css-font-size='13px']  {
-     font-size: 13px ;
+@media screen and (max-width: 480px) {
+  [css-dw480px-font-size="36px"] { font-size: 36px; }
 }
 
-
-[css-font-size='60px']  {
-     font-size: 60px ;
-}
-
-
-[css-font-weight='bolder']  {
-     font-weight: bolder ;
-}
-
-
-[css-justify-content='center']  {
-     justify-content: center ;
-}
-
-
-[css-line-height='50px']  {
-     line-height: 50px ;
-}
-
-
-[css-line-height='50px']  {
-     line-height: 50px ;
-}
-
-
-[css-margin-right='auto']  {
-     margin-right: auto ;
-}
-
-
-[css-margin='auto']  {
-     margin: auto ;
-}
-
-
-[css-padding-top='50px']  {
-     padding-top: 50px ;
-}
-
-
-[css-padding='0 10px']  {
-     padding: 0 10px ;
-}
-
-
-[css-padding='0 20px']  {
-     padding: 0 20px ;
-}
-
-
-[css-padding='10px 20px']  {
-     padding: 10px 20px ;
-}
-
-
-[css-padding='20px 0px']  {
-     padding: 20px 0px ;
-}
-
-
-[css-text-decoration='underline']  {
-     text-decoration: underline ;
-}
-
-
-[css-width='30px']  {
-     width: 30px ;
-}
-
-[css-display='none']  {
-     display: none ;
-}
-
-@media screen and (max-width: 640px) { [css-dw640px-display='flex']  {
-    
-}
-
-@media screen and (max-width: 640px) { [css-dw640px-display='none']  {
-    
-}
-
-@media screen and (max-width: 480px) { [css-dw480px-font-size='36px']  {
-    
-}
-
-@media screen and (max-width: 480px) { [css-dw480px-font-size='72px']  {
-    
+@media screen and (max-width: 480px) {
+  [css-dw480px-font-size="72px"] { font-size: 72px; }
 }
