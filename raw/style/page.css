@@ -10,15 +10,11 @@
 
 [css-gap="100px"] { gap: 100px; }
 
-[css-gap="20px"] { gap: 20px; }
-
 [css-height="0"] { height: 0px; }
 
 [css-min-height="270px"] { min-height: 270px; }
 
 [css-padding-top="56.25%"] { padding-top: 56.25%; }
-
-[css-padding="0 50px"] { padding: 0px 50px; }
 
 [css-padding="100px 50px"] { padding: 100px 50px; }
 
@@ -42,8 +38,4 @@
 
 @media screen and (max-width: 960px) {
   [css-dw960px-gap="0"] { gap: 0px; }
-}
-
-@media screen and (max-width: 960px) {
-  [css-dw960px-padding="20px 0"] { padding: 20px 0px; }
 }
