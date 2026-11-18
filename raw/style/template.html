@@ -9,9 +9,9 @@
                 </box>
                 <box css-dw640px-display="none" css-font-size="13px">
                     <section>
-                        <href css-padding="0 10px">Work</href>
-                        <href css-padding="0 10px">Inquire</href>
-                        <href css-padding="0 10px">About</href>
+                        <href css-padding="0 10px" data-href="/work">Work</href>
+                        <href css-padding="0 10px" data-href="/inquire">Inquire</href>
+                        <href css-padding="0 10px" data-href="/about">About</href>
                     </section>
                 </box>
                 <box css-display="none" css-dw640px-display="flex">
@@ -32,26 +32,18 @@
             <section css-justify-content="center">
                 <box css-font-size="120px" css-dw480px-font-size="72px" css-font-weight="bolder" css-margin="auto" css-padding-top="50px">
                     <section>
-                        <text oninput="framework.tools.oninput(event)" focus="cell">OMEN</text>
+                        <text>TITLE</text>
                     </section>
                 </box>
             </section>
         </card>
         <card css-line-height="50px" css-padding="20px 0px">
             <section css-justify-content="center">
-                <box css-padding="0 20px">
+                <box>
                     <section>
-                        <text css-text-decoration="underline">Home</text>
-                    </section>
-                </box>
-                <box css-padding="0 20px">
-                    <section>
-                        <text css-text-decoration="underline">Works</text>
-                    </section>
-                </box>
-                <box css-padding="0 20px">
-                    <section>
-                        <text css-text-decoration="underline">About</text>
+                        <href css-padding="0 20px" css-text-decoration="underline" data-href="/" focus="cell">Home</href>
+                        <href css-padding="0 20px" css-text-decoration="underline" data-href="/work">Work</href>
+                        <href css-padding="0 20px" css-text-decoration="underline" data-href="/about">About</href>
                     </section>
                 </box>
             </section>
