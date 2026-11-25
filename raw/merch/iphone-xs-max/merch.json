@@ -1,0 +1,25 @@
+[
+    {
+        "category": "Computers",
+        "dimensions": [
+            {
+                "name": "Color",
+                "values": [
+                    "Space Gray",
+                    "Silver"
+                ]
+            },
+            {
+                "name": "Carrier",
+                "values": [
+                    "AT&T",
+                    "T-Mobile",
+                    "Verion",
+                    "Unlocked"
+                ]
+            }
+        ],
+        "slug": "iphone-xs-max",
+        "title": "iPhone XS Max"
+    }
+]
