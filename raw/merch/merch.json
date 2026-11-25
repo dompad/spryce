@@ -21,5 +21,11 @@
         ],
         "slug": "iphone-xs-max",
         "title": "iPhone XS Max"
+    },
+    {
+        "category": "Computers",
+        "dimensions": [],
+        "slug": "microsoft-surface-laptop-4",
+        "title": "Microsoft Surface Laptop 4"
     }
 ]
